@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="card.xsl"?>
+<namecard>
+	<people id="71117306" logo='imgs/logo.png'>
+		<basic>
+			<name picture='imgs/lxy.jpg'>李旭芸</name>
+			<gender>女</gender>
+			<age>20</age>
+			<email>369602293@qq.com</email>
+		</basic>
+		<education>
+			<school>SEU</school>
+			<major>软件工程</major>
+			<enrolldate>2017-2021</enrolldate>
+		</education>
+	</people>
+	<people id="71117305">
+		<basic>
+			<name picture='imgs/zyl.jpg'>郑雅璐</name>
+			<gender>女</gender>
+			<age>20</age>
+			<email>huxihaifeng@qq.com</email>
+		</basic>
+		<education>
+			<school>SEU</school>
+			<major>软件工程</major>
+			<enrolldate>2017-2021</enrolldate>
+		</education>
+	</people>
+</namecard>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- group14-1011 -->
+<!-- 71117305郑雅璐 -->
+<!-- 71117306李旭芸 -->
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<xsd:element name="catalog">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="brand" minOccurs="0" maxOccurs="20"/>
+				<xsd:element ref="show" minOccurs="0" maxOccurs="10"/>
+				<xsd:element ref="clothesinfo" maxOccurs="unbounded"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="brand">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="bname"/>
+				<xsd:element ref="founder"/>
+				<xsd:element ref="country" minOccurs="0"/>
+				<xsd:element ref="found_time" minOccurs="0"/>
+				<xsd:element ref="hot"/>
+			</xsd:sequence>
+			<xsd:attribute name="bid" type="xsd:ID" use="required"/>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="show">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="showname"/>
+				<xsd:element ref="showdate"/>
+				<xsd:element ref="showplace"/>
+				<xsd:element ref="comments" minOccurs="0"/>
+			</xsd:sequence>
+			<xsd:attribute name="sid" type="xsd:ID" use="required"/>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="clothesinfo">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="designer" minOccurs="0"/>
+				<xsd:element ref="img"/>
+				<xsd:element ref="items" minOccurs="0"/>
+				<xsd:element ref="description" minOccurs="0"/>
+			</xsd:sequence>
+			<xsd:attribute name="cid" type="xsd:ID" use="required"/>
+			<xsd:attribute name="type" use="required">
+				<xsd:simpleType>
+					<xsd:restriction base="xsd:string">
+						<xsd:enumeration value="成衣"/>
+						<xsd:enumeration value="高定"/>
+					</xsd:restriction>
+				</xsd:simpleType>
+			</xsd:attribute>
+			<xsd:attribute name="gender" use="required">
+				<xsd:simpleType>
+					<xsd:restriction base="xsd:string">
+						<xsd:enumeration value="女"/>
+						<xsd:enumeration value="男"/>
+					</xsd:restriction>
+				</xsd:simpleType>
+			</xsd:attribute>
+			<xsd:attribute name="cbrand" type="xsd:string" use="required"/>
+			<xsd:attribute name="cshow" type="xsd:string" use="required"/>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="bname" type="xsd:string"/>
+	<xsd:element name="founder" type="xsd:string"/>
+	<xsd:element name="country" type="xsd:string"/>
+	<xsd:element name="found_time" type="xsd:gYear"/>
+	<xsd:element name="hot" type="xsd:integer"/>
+	<xsd:element name="showname" type="xsd:string"/>
+	<xsd:element name="showdate" type="xsd:date"/>
+	<xsd:element name="showplace" type="xsd:string"/>
+	<xsd:element name="comments">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="comment" maxOccurs="10"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="designer">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="name"/>
+				<xsd:element ref="dcountry" minOccurs="0"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="img">
+		<xsd:complexType>
+			<xsd:attribute name="imgurl" type="xsd:anyURI" use="required"/>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="items">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="item" maxOccurs="20"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="description" type="xsd:string"/>
+	<xsd:element name="name" type="xsd:string"/>
+	<xsd:element name="dcountry" type="xsd:string"/>
+	<xsd:element name="comment" type="xsd:string"/>
+	<xsd:element name="item">
+		<xsd:complexType mixed="true">
+			<xsd:sequence>
+				<xsd:element ref="itemname"/>
+				<xsd:element ref="composition" minOccurs="0"/>
+				<xsd:element ref="price" minOccurs="0"/>
+			</xsd:sequence>
+			<xsd:attribute name="itemurl" type="xsd:anyURI" use="required"/>
+			<xsd:attribute name="itemid" type="xsd:string" use="required"/>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="itemname" type="xsd:string"/>
+	<xsd:element name="composition" type="xsd:string"/>
+	<xsd:element name="price" type="xsd:decimal"/>
+</xsd:schema>

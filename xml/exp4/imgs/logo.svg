@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g>
+  <title>Layer 1</title>
+  <path d="m282.9736,150.62396c-2.16833,6.08867 -7.37915,10.39047 -13.48398,10.39047c-6.1105,0 -11.32416,-4.3018 -13.48398,-10.39047l-33.01883,15.9866l9.28925,24.99577l10.20309,-4.94234l0,50.95996l54.37863,0l0,-50.78011l9.83746,4.76514l9.29156,-24.99577l-33.01321,-15.98926z" stroke-width="1.5" stroke="#000" fill="#cc7c65" />
+  <text xml:space="preserve" y="223" x="127" transform="matrix(1.41271, 0, 0, 1.27421, -52.2539, -53.2211)" text-anchor="start" stroke-width="0" stroke="#000" fill="#cc7c65"  font-weight="bold" font-size="24px" >Clothes</text>
+  <text xml:space="preserve" y="256" x="195" transform="matrix(1.39011, 0, 0, 1.35911, -53.8852, -78.7741)" text-anchor="start" stroke-width="0" stroke="#000"  fill="#ce7975"  font-weight="bold" font-size="24px">showing</text>
+  <text xml:space="preserve" y="229" x="250" transform="matrix(1.96411, 0, 0, 1.82769, -241.511, -196.795)" text-anchor="start" stroke-width="0"  stroke="#000"  fill="#4c261d" font-size="24px" >&amp;</text>
+ </g>
+</svg>

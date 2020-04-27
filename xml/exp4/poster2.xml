@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="C:\Users\huxih\Desktop\exp4\poster2.xsl"?>
+<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<clothesinfo cid="RTW2" type="成衣" gender="女" cbrand="Guc" cshow="MSS2020">
+		<designer>
+			<name>Alessandro Michele</name>
+			<dcountry>罗马</dcountry>
+		</designer>
+		<img imgurl="https://res.gucci.cn/resources/2019/9/20/15689161194861960_g_610X1220.jpg"/>
+		<items>
+			<item itemurl="https://res.gucci.cn/resources/2019/10/17/15712712639141026_g_1200X1200.jpg" itemid="6010671DB0X1000">
+				<itemname>Sylvie 1969系列小号肩背包</itemname>
+				<composition>织纹皮革</composition>
+			</item>
+			<item itemurl="https://res.gucci.cn/resources/2020/1/9/15785437770063040_g_1200X1200.jpg" itemid="596712ZADOO9683">
+				<itemname>Disney x Gucci真丝衬衫</itemname>
+				<composition>真丝</composition>
+			</item>
+			<item itemurl="https://res.gucci.cn/resources/2019/12/19/15767447546396774_g_1200X1200.jpg" itemid="596961ZADOP9683">
+				<itemname>Disney x Gucci真丝睡裤</itemname>
+				<composition>真丝</composition>
+			</item>
+			<item itemurl="https://res.gucci.cn/resources/2019/11/30/15750480717459364_g_1200X1200.jpg" itemid="605876I46000933">
+				<itemname>双G狮头项圈</itemname>
+				<composition>低致敏性和无镍材料</composition>
+			</item>
+		</items>
+		<description>
+衬衫和睡裤采用斜纹真丝材质，饰以美丽的风景画图案，宁静的湖泊、鲜艳的水鸟和可爱的米奇形象，令整款造型散发出鲜活灵动的气息。为致敬中国新年，富有传奇色彩的迪士尼经典形象以彩色印花、刺绣贴饰或提花图案的形式。狮头项圈的雄狮口中巧妙镶嵌织纹拧花边框和双G组成的吊坠。做旧金色效果的金属材质令这款配饰散发出浓郁的复古格调。小号肩背包运用黑色织纹皮革材质制作，翻盖上匠心点缀窄版金色调金属链，以现代时尚视角演绎品牌的经典配件。
+			</description>
+	</clothesinfo>
+	<clothesinfo cid="RTW3" type="成衣" gender="男" cbrand="Guc" cshow="MSS2020">
+		<designer>
+			<name>Alessandro Michele</name>
+			<dcountry>罗马</dcountry>
+		</designer>
+		<img imgurl="https://res.gucci.cn/resources/2019/10/5/15702121613269100_g_610X1220.jpg"/>
+		<items>
+			<item itemurl="https://res.gucci.cn/resources/2020/1/9/1578544200268263_g_1200X1200.jpg" itemid="598971 XJB03 6065">
+				<itemname>Disney x Gucci亚麻T恤</itemname>
+				<composition>70%亚麻，30%棉</composition>
+			</item>
+			<item itemurl="https://res.gucci.cn/resources/2019/11/29/15749670148356631_g_1200X1200.jpg" itemid="599944 XDA1B 4011">
+				<itemname>大理石纹水洗牛仔裤</itemname>
+				<composition>棉</composition>
+			</item>
+			<item itemurl="https://res.gucci.cn/resources/2019/12/19/15767452737099809_g_1200X1200.jpg" itemid="602691 HWXAM 8559">
+				<itemname>Disney x Gucci小号水桶包</itemname>
+				<composition>高级人造帆布，饰有米奇印花和浅棕色皮革滚边</composition>
+			</item>
+			<item itemurl="https://res.gucci.cn/resources/2019/11/22/15744228412358818_g_1200X1200.jpg" itemid="590778 Z8AF4 4560">
+				<itemname>刺绣毛毡飞行员夹克</itemname>
+				<composition>羊毛</composition>
+			</item>
+		</items>
+		<description>
+			上衣和水桶包为致敬中国新年，富有传奇色彩的迪士尼经典形象以彩色印花、刺绣贴饰或提花图案的形式亮相Gucci2020早春成衣和配饰系列。牛仔裤背面饰有黑色皮革标签，与金属质感的金色Gucci复古标识形成对比美感，彰显个性摇滚风范。飞行员夹克采用经过水洗处理的海军蓝羊毛毡材质，融入尖领和白色撞色滚边设计，体现了2020早春系列中的航海灵感。
+			</description>
+	</clothesinfo>
+</catalog>

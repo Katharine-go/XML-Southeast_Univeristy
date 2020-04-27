@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="poster.xsl"?>
+<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<clothesinfo cid="RTW1" type="成衣" gender="女" cbrand="Cha" cshow="SS2020">
+		<designer>
+			<name>Virginie Viard</name>
+			<dcountry>法国</dcountry>
+		</designer>
+		<img imgid="RTW111" imgurl="https://www.chanel.com/images/c_scale/c_crop,h_3015,w_2040,x_1028,y_148/q_auto,f_auto,fl_lossy,dpr_auto/w_1640/cruise-2019-20-31-8821843525662.jpg"/>
+		<items>
+			<item itemurl="https://www.chanel.com/images/t_fashionselector/q_auto,f_auto,fl_lossy,dpr_auto/w_972/clip-on-earrings-gold-pearly-white-metal-imitation-pearls-metal-imitation-pearls-packshot-default-ab3149b02100n5749-8821799747614.jpg" itemid="AB3149B02100N5749">
+				<itemname>夹式耳环</itemname>
+				<composition>金属与人造珍珠</composition>
+				<price>20000.00</price>
+			</item>
+			<item itemurl="https://www.chanel.com/images/c_scale/c_crop,h_3015,w_2040,x_1028,y_148/q_auto,f_auto,fl_lossy,dpr_auto/w_1640/cruise-2019-20-31-8821843525662.jpg" itemid="P62639V48251MH369">
+				<itemname>上衣</itemname>
+				<composition>刺绣闪亮斜纹软呢</composition>
+			</item>
+			<item itemurl="https://www.chanel.com/images/c_scale/c_crop,h_3015,w_2040,x_1028,y_148/q_auto,f_auto,fl_lossy,dpr_auto/w_1640/cruise-2019-20-31-8821843525662.jpg" itemid="P62638V48251MH369">
+				<itemname>外套</itemname>
+				<composition>刺绣闪亮斜纹软呢</composition>
+			</item>
+			<item itemurl="https://www.chanel.com/images/c_scale/c_crop,h_3015,w_2040,x_1028,y_148/q_auto,f_auto,fl_lossy,dpr_auto/w_1640/cruise-2019-20-31-8821843525662.jpg" itemid="AS1364B01927N5518">口盖包
+				<itemname>口盖包</itemname>
+				<composition>小牛皮与银色金属</composition>
+			</item>
+			<item itemurl="https://www.chanel.com/images/c_scale/c_crop,h_3015,w_2040,x_1028,y_148/q_auto,f_auto,fl_lossy,dpr_auto/w_1640/cruise-2019-20-31-8821843525662.jpg" itemid="P62676C0038600100">
+				<itemname>百慕达短裤</itemname>
+				<composition>羊皮革</composition>
+			</item>
+			<item itemurl="https://www.chanel.com/images/c_scale/c_crop,h_3015,w_2040,x_1028,y_148/q_auto,f_auto,fl_lossy,dpr_auto/w_1640/cruise-2019-20-31-8821843525662.jpg" itemid="G35490X53032C7600">
+				<itemname>系带鞋</itemname>
+				<composition>亮面皱纹小牛皮</composition>
+			</item>
+		</items>
+		<description>
+					搭配香奈儿最具代表性的单品经典斜纹软呢外套，充分展现其永恒经典魅力。在追求穿着自由的同时，又充满魅力。斜纹软呢外套源于男士军装的斜纹软呢面料，属于“男装女穿”的突破，体现出可可香奈儿小姐一向标榜的独立女性形象。
+		</description>
+	</clothesinfo>
+	<clothesinfo cid="RTW4" type="高定" gender="女" cbrand="Cha" cshow="SS2020">
+		<designer>
+			<name>Virginie Viard</name>
+			<dcountry>法国</dcountry>
+		</designer>
+		<img imgid="RTW41" imgurl="https://www.chanel.com/images/c_scale/c_crop,h_3015,w_2040,x_1028,y_148/q_auto,f_auto,fl_lossy,dpr_auto/w_1640/spring-summer-2020-11-8824184668190.jpg"/>
+		<items>
+			<item itemurl="https://www.chanel.com/images/t_fashionselector/q_auto,f_auto,fl_lossy,dpr_auto/w_972/camellia-orange-silk-crepe-silk-crepe-packshot-default-aa6872b03156n7230-8824091050014.jpg" itemid="AA6874 B03159 N7235">
+				<itemname>山茶花</itemname>
+				<composition>丝质丝透纱</composition>
+			</item>
+			<item itemurl="https://www.chanel.com/images/c_scale/c_crop,h_3015,w_2040,x_1028,y_148/q_auto,f_auto,fl_lossy,dpr_auto/w_1640/spring-summer-2020-11-8824184668190.jpg" itemid="P64018 V49112 MH968">
+				<itemname>外套</itemname>
+				<composition>斜纹软呢</composition>
+			</item>
+			<item itemurl="https://www.chanel.com/images/t_fashionselector/q_auto,f_auto,fl_lossy,dpr_auto/w_972/classic-handbag-pink-blue-beige-orange-tweed-gold-tone-metal-tweed-gold-tone-metal-packshot-default-a01112b02805mh968-8824090918942.jpg" itemid="A01112 B02805 MH968">
+				<itemname>经典口盖包</itemname>
+				<composition>斜纹软呢与金色金属</composition>
+			</item>
+			<item itemurl="https://www.chanel.com/images/c_scale/q_auto,f_auto,fl_lossy,dpr_auto/w_1100/spring-summer-2020-11-8824716492830.jpg" itemid="A01112 B02105 MH978">
+				<itemname>半身裙</itemname>
+				<composition>斜纹软呢与金色金属</composition>
+			</item>
+			<item itemurl="https://www.chanel.com/images/t_fashionselector/q_auto,f_auto,fl_lossy,dpr_auto/w_972/mary-janes-black-sequins-grosgrain-sequins-grosgrain-packshot-default-g36048y5383194305-8824086069278.jpg" itemid="G36048 Y53831 9430">
+				<itemname>玛丽珍鞋</itemname>
+				<composition>亮片与罗缎</composition>
+			</item>
+		</items>
+		<description>
+		本季灵感来源也是上世纪20年代，这与2020年的不谋而合，也不知是不是有意为之。在那个“咆哮的二十年代”出现了全新形态的自由，大家追求的身体解放在本季也得以解读。
+			</description>
+	</clothesinfo>
+</catalog>

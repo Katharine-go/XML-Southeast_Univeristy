@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- group14-1011 -->
+<!-- 71117305郑雅璐 -->
+<!-- 71117306李旭芸 -->
+<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="fashion.xsd">
+	<brand bid="Bur">
+		<bname>Burberry</bname>
+		<founder>Thomas Burberry</founder>
+		<country>英国</country>
+		<found_time>1856</found_time>
+		<hot>126444</hot>
+	</brand>
+	<brand bid="Val">
+		<bname>Valentino</bname>
+		<founder>Valentino galavani</founder>
+		<country>意大利</country>
+		<found_time>1960</found_time>
+		<hot>118488</hot>
+	</brand>
+	<clothesinfo cid="RTW29" type="成衣" gender="女" cbrand="Bur" cshow="PSS2020">
+		<designer>
+			<name>RICCARDO TISCI</name>
+			<dcountry>英国</dcountry>
+		</designer>
+		<img imgurl="https://assets.burberry.com/is/image/Burberryltd/0a9bc44300ea9dd3d88833ee1a9a6b7ddf7b3956.jpg" />
+		<items>
+			<item itemurl="https://assets.burberry.com/is/image/Burberryltd/9a19b85341038445415d32f5a822eb03f1be9ed1.jpg" itemid="45645471">
+				<itemname>褶裥平织半裙</itemname>
+				<composition>桑蚕丝</composition>
+				<price>86000.00</price>
+			</item>
+			<item itemurl="https://assets.burberry.com/is/image/Burberryltd/758984599116a55277b20eb35e48904bad927f6b.jpg" itemid="45641221">
+				<itemname>灯笼袖针织丝质衬衫</itemname>
+				<composition>丝绸</composition>
+			</item>
+			<item itemurl="https://assets.burberry.com/is/image/Burberryltd/fd69da853a7b07812f62090af0158c47f3851c10.jpg" itemid="80294471">
+				<itemname> 粒纹皮革腰包款艾尼手拿包</itemname>
+				<composition>小牛皮</composition>
+			</item>
+			<item itemurl="https://assets.burberry.com/is/image/Burberryltd/fbb8f63a723fb7cfa9861ed7e53b191ba72b7ad6.jpg" itemid="40811151">
+				<itemname>Blake 太阳眼镜</itemname>
+				<composition>生物醋酸纤维镜框</composition>
+			</item>
+			<item itemurl="https://assets.burberry.com/is/image/Burberryltd/0d52571ebc41872032f062f65e12491a9988efbc.jpg" itemid="80277921">
+				<itemname>专属标识图案皮革腰带</itemname>
+				<composition>皮革</composition>
+			</item>
+		</items>
+		<description>
+		隆重呈献 BURBERRY 2020 春夏时装秀「EVOLUTION进化宣言」，新季系列即将盛大上市。全新简约风格广告大片聚焦 BURBERRY
+新态度，演绎经典与摩登的对比碰撞，在崭新视角下展现英伦多元文化。全新阵容以不拘一格的态度演绎动物灵感的廓形，诠释品牌创始人 THOMAS BURBERRY 与首席创意总监 RICCARDO TISCI 对动物的共同热爱。
+		</description>
+	</clothesinfo>
+	<clothesinfo cid="RTW30" type="成衣" gender="男" cbrand="Bur" cshow="PSS2020">
+		<designer>
+			<name>RICCARDO TISCI</name>
+			<dcountry>英国</dcountry>
+		</designer>
+		<img imgurl="https://assets.burberry.com/is/image/Burberryltd/6fabaaa6829885cbd1de4a9625f2515e1cc7ab7f.jpg" />
+		<items>
+			<item itemurl="https://assets.burberry.com/is/image/Burberryltd/97ff37c017b77e39eec5d3362754eec2503c87ee.jpg" itemid="45590911">
+				<itemname>西装外套细节棉质斜纹重塑版 Trench 风衣</itemname>
+				<composition>93%羊毛</composition>
+				<price>34000</price>
+			</item>
+			<item itemurl="https://assets.burberry.com/is/image/Burberryltd/8b464ecb3e18f87669d2120d0bbb3f29c9e236bb.jpg" itemid="45629851">
+				<itemname>经典剪裁丝质平织衬衫</itemname>
+				<composition>丝绸</composition>
+			</item>
+			<item itemurl="https://assets.burberry.com/is/image/Burberryltd/ac0cafd5fca98246a0fc4c7aa1cf2db79a6c766a.jpg" itemid="80294471">
+				<itemname> 英伦剪裁羊绒混纺平织量裁长裤</itemname>
+				<composition>67%羊绒，27%桑蚕丝，6%聚酰胺</composition>
+			</item>
+			<item itemurl="https://assets.burberry.com/is/image/Burberryltd/b0740da4a9598f96c75df3be4415ede1e8e31e01.jpg" itemid="80287111">
+				<itemname>皮革露跟牛津布洛克鞋</itemname>
+				<composition>小牛皮</composition>
+			</item>
+		</items>
+		<description>
+		隆重呈献 BURBERRY 2020 春夏时装秀「EVOLUTION进化宣言」，新季系列即将盛大上市。全新简约风格广告大片聚焦 BURBERRY
+新态度，演绎经典与摩登的对比碰撞，在崭新视角下展现英伦多元文化。全新阵容以不拘一格的态度演绎动物灵感的廓形，诠释品牌创始人 THOMAS BURBERRY 与首席创意总监 RICCARDO TISCI 对动物的共同热爱。
+		</description>
+	</clothesinfo>
+	<clothesinfo cid="RTW31" type="成衣" gender="男" cbrand="Val" cshow="PSS2020">
+		<designer>
+			<name>Garavani Valentino</name>
+			<dcountry>意大利</dcountry>
+		</designer>
+		<img imgurl="https://uxresources.baozun.com/prod/88000173/20200121/DAB8E872E3338AEFF98FBED3B75AF2B9.jpg?x-oss-process=image/resize,m_fill,h_800,w_640" />
+		<items>
+			<item itemurl="https://uxresources.baozun.com/prod/88000173/20200121/106F0126D83A158F914268D199B9677C.jpg" itemid="TV3MG10V3LEN01">
+				<itemname>VLTN 印花T恤</itemname>
+				<composition>TV3MG10V3LEN01</composition>
+				<price>3300</price>
+			</item>
+			<item itemurl="https://uxresources.baozun.com/prod/88000173/20191115/F8940C941255D8D035E3E7A728DB4542.jpg" itemid="TY2S0830PEXA01">
+				<itemname> VLTN STAR 印花 Open 小牛皮运动鞋</itemname>
+				<composition>小牛皮</composition>
+			</item>
+		</items>
+		<description>
+Valentino在创新与传统之间展开对话，在高级定制与街头风格中不断探索，以不同空间与时间的交错传递时尚态度，以感性美表达鲜明个性，将经典设计元素与新颖美学理念融为一体。从始至终，Valentino一直是优雅、纯净、工艺与独特性的代名词。
+		</description>
+	</clothesinfo>
+</catalog>
